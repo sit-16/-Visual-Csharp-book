@@ -49,19 +49,13 @@ namespace Обои
         {
             string[] listBlinds = BlindsTypesSorted.Keys.ToArray();
             if (char.IsLetter(e.KeyChar))
-            {
                 for (int i = 0; i < listBlinds.Length; i++)
-                {
                     if (listBlinds[i].StartsWith(char.ToLower(e.KeyChar)))
                         this.comboBox1.SelectedIndex = i;
-                }
-            }
             if (char.IsControl(e.KeyChar))
             {
                 if (e.KeyChar == (char)Keys.Enter)
-                {
                     this.button1.Focus();
-                }
                 return;
             }
             e.Handled = true;
@@ -73,7 +67,6 @@ namespace Обои
                 this.button1.Enabled = true;
             else this.button1.Enabled = false;
             this.label4.Text = "";
-
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="WinFormsApp1/Фунтф-килограммы-2.csproj" Id="fd6c3055-8a66-4b43-9829-3033a5934490" />
+  <Project Path="Калькулятор/Калькулятор.csproj" Id="193f3396-8aaa-4602-929f-a40ba5cf9253" />
   <Project Path="Комплектация автомобиля/Комплектация автомобиля.csproj" Id="b18af3b9-0811-4e32-8b33-cc3109a33f30" />
   <Project Path="Конвертор/Конвертор.csproj" Id="c1aab784-b1ac-490a-8fb2-02dd35fa3d43" />
   <Project Path="Мили-километры/Мили-километры.csproj" />
