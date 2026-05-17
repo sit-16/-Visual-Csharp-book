@@ -5,6 +5,7 @@
   <Project Path="Конвертор/Конвертор.csproj" Id="c1aab784-b1ac-490a-8fb2-02dd35fa3d43" />
   <Project Path="Мили-километры/Мили-километры.csproj" />
   <Project Path="Обои/Обои.csproj" Id="f34c745e-e0d4-4aa8-a32c-147af3d1e80a" />
+  <Project Path="Просмотр иллюстраций/Просмотр иллюстраций.csproj" Id="9a1f8d2a-27d5-4670-a35e-58840bde4b18" />
   <Project Path="Фото/Фото.csproj" Id="a2e4fba8-7af4-4a38-855e-bc8f5584e362" />
   <Project Path="Фунты-килограммы/Фунты-килограммы.csproj" Id="dbd0caa1-ad7c-4efd-8b18-05f68dbf9474" />
 </Solution>
